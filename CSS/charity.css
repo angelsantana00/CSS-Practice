@@ -1,0 +1,13 @@
+body {
+    background: blueviolet;
+}
+
+
+#manos {
+    font-size: 30px;
+    /*font-weight: bold;*/
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Gwendolyn', cursive;
+    margin-right: 5px;
+}
